@@ -1,0 +1,4 @@
+{
+    "input": "GitHub/image-extractor/test/sample.pdf",
+    "output": "GitHub/image-extractor/output/"
+}
